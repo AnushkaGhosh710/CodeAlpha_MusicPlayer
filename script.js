@@ -1,27 +1,27 @@
 const songs = [
     {
         name:"Girl That I Am",
-        file:"songs/song1.mp3"
+        file:"song1.mp3"
     },
     {
         name:"Hope Is a Scary Thing",
-        file:"songs/song2.mp3"
+        file:"song2.mp3"
     },
     {
         name:"I Love You, I'm Sorry",
-        file:"songs/song3.mp3"
+        file:"song3.mp3"
     },
     {
         name:"Human Nature",
-        file:"songs/song4.mp3"
+        file:"song4.mp3"
     },
     {
         name:"Edge Of The Earth",
-        file:"songs/song5.mp3"
+        file:"song5.mp3"
     },
     {
         name:"tomorrow tonight",
-        file:"songs/song6.mp3"
+        file:"song6.mp3"
     }
 ];
 
