@@ -80,3 +80,7 @@ Through this project, I learned:
 ## Author
 
 Anushka Ghosh
+
+Computer Science Engineering Student
+
+GitHub: https://github.com/AnushkaGhosh710
